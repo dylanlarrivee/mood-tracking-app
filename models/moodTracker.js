@@ -19,13 +19,13 @@ const MoodTrackerSchema = new Schema({
 });
 
 // Mongoose Model
-const MoodTracker = mongoose.model('daily-tracker-inputs', MoodTrackerSchema);
+const MoodTracker = mongoose.model('daily-tracking-inputs', MoodTrackerSchema);
 
 // Saving data to our mongo database
-const data = {
-    wakeUpTime: '7:00 am',
-    extraNotes: 'Test notes'
-};
+// const data = {
+//     wakeUpTime: '7:00 am',
+//     extraNotes: 'Test notes 222'
+// };
 
 // const newMoodTracker = new MoodTracker(data); // instance of the model
 
