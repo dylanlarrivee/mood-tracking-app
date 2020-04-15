@@ -1,0 +1,60 @@
+{
+    appId:"1",
+    loginName:"",
+    password:"",
+    firstName:"",
+    lastName:"",
+    moodData:[
+        {
+            date:"20200412",
+            wakeUpTime:"6:45",
+            sleepTime: "22:10",
+            energyLevel: "8",
+            moodRanking: "7",
+            cupCoffeeNum: "2",
+            cupTeaNum: "2",
+            minExercise: "30",
+            weather: "Sunny",
+            extraNotes: "Had weird dreams"
+        }
+    ]
+}
+
+
+{
+    "_id": {
+        "$oid": "5e95cdef1c9d440000d71169"
+    },
+    "appId":"1",
+    "loginName":"",
+    "password":"",
+    "firstName":"",
+    "lastName":"",
+    "moodData":[
+        {
+            date:"20200412",
+            wakeUpTime:"6:45",
+            sleepTime: "22:10",
+            energyLevel: "8",
+            moodRanking: "7",
+            cupCoffeeNum: "2",
+            cupTeaNum: "2",
+            minExercise: "30",
+            weather: "Sunny",
+            extraNotes: "Had weird dreams"
+        }
+    ]
+}
+
+{
+    "date":"20200412",
+    "wakeUpTime":"6:45",
+    "sleepTime": "22:10",
+    "energyLevel": "8",
+    "moodRanking": "7",
+    "cupCoffeeNum": "2",
+    "cupTeaNum": "2",
+    "minExercise": "30",
+    "weather": "Sunny",
+    "extraNotes": "Had weird dreams"
+}
